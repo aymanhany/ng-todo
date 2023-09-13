@@ -1,0 +1,29 @@
+/* add-todo.component.css */
+
+.add-todo {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  }
+  
+  input[type="text"] {
+    width: 70%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  button {
+    background-color: #4caf50 !important;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 12px;
+    cursor: pointer;
+    margin-left: 10px;
+  }
+  
